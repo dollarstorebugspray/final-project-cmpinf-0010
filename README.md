@@ -12,5 +12,4 @@ https://data.wprdc.org/dataset/median-age-death/resource/c2e1500a-a12a-4e91-be94
 
 https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-school-enrollment/resource/eb1f8714-e0eb-4614-acfe-dfe0ebab942f : Used to find 
 
-A one sentence overview of your repository, meant for someone who is not familiar with the project
 This repository is a project where we use multiple datasets to determine which neighborhood is the best in certain metrics in order to determine which neighborhood is the best in the city when combining all these metrics
